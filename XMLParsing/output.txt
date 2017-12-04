@@ -1,0 +1,131 @@
+TABL 
+TABL     TABLE-US-00001
+TABL     Application conditions
+TABL    
+TABL     Fibre Type 100% Cotton
+TABL     application padding process
+TABL     method
+TABL     pickup 100%
+TABL     pH of bath 5.5
+TABL     Drying condition 120° C.
+TABL     Dosage 10 grams per
+TABL     liter
+TABL    
+TABL 
+TABL     TABLE-US-00002
+TABL     TABLE 1
+TABL    
+TABL     Whiteness Index of fabrics after application of blue coloured aqueous
+TABL     dispersions of Example 1 at conditions mentioned in Table 2.
+TABL     CIE Whiteness Index using Spectrophotometer (index D65 illuminate)
+TABL     Treated with Treated with
+TABL     Inventive material conventional spherical
+TABL     (blue nano silver colloidal silver of
+TABL     dispersion) (1% of particle size 5-100 nm
+TABL     Fabric Untreated weight of fabric; (1% of weight of
+TABL     Construction fabric 0.1 ppm) fabric)
+TABL    
+TABL     Woven 130.5 128.8 126.3
+TABL     fabric - Plain
+TABL     Knits fabric - 129.3 131.2 123.5, yellowing
+TABL     Single Jersey observed in cabinet
+TABL     Terry Towel 131.4 130.3 121.3, visual yellowing
+TABL     fabric observed
+TABL    
+TABL 
+TABL     TABLE-US-00003
+TABL     Application conditions
+TABL    
+TABL     Fibre Type 100% Cotton
+TABL     application method padding
+TABL     pickup 80%
+TABL     pH of bath 8.0
+TABL     Drying condition 100° C. for 5 minutes
+TABL     Dosage undiluted, as prepared
+TABL    
+TABL 
+TABL     TABLE-US-00004
+TABL     TABLE 2
+TABL    
+TABL     Whiteness and yellowness indices for untreated
+TABL     control and treated cotton fabric.
+TABL     Sample WI-ASTM WI-CIE YI-E313
+TABL    
+TABL     Control white 73.21 74.33 3.46
+TABL     cotton (plain 
+TABL     weave, unfinished)
+TABL     Treated cotton 133.81 125.81 N/A
+TABL     woven fabric
+TABL     with blue
+TABL     coloured aqueous
+TABL     dispersion of silver
+TABL     nanoparticles
+TABL     of Example 1
+TABL    
+TABL 
+TABL     TABLE-US-00005
+TABL     TABLE 3
+TABL    
+TABL     Antimicrobial activity of Blue coloured Ag nanoparticle dispersion treated polyester fabric
+TABL     % of blue
+TABL     silver
+TABL     Product (of
+TABL     example 1)
+TABL     in aqueous Additive Antimicrobial activity
+TABL     medium added to (% reduction of colonies)
+TABL     (ppm blue silver Un after 10 after 20 after 30
+TABL     S. No. application) dispersion washed washes washes washes
+TABL    
+TABL     1 1% (0.1 ppm) without 99.9%   80% 50% 30%
+TABL     additive
+TABL     2 1% Wetting 99.9% 99.9% 80% 50%
+TABL     (0.1 ppm) agent,
+TABL     mixture of
+TABL     alcohol
+TABL     ethoxylates
+TABL     (0.1 to 1% w/w)
+TABL     3 1% Cationic 99.9% 99.9% 99.9%   85%
+TABL     (0.1 ppm) Surfactant
+TABL     dosage of
+TABL     (0.1 to 1% w/w)
+TABL     4 1% Epichlorohydrin- 99.9% 99.9% 99.9%   85%
+TABL     (0.1 ppm) bishexamethylenetriamine
+TABL     polymer
+TABL     based binder
+TABL     dosage of
+TABL     (0.1 to
+TABL     1.0% w/w)
+TABL     5 1% Acrylic 99.9% 99.9% 98% 80%
+TABL     (0.1 ppm) Copolymer
+TABL     binder
+TABL     dosage of
+TABL     (0.1 to
+TABL     1% w/w)
+TABL     6 1% Polyester 99.9% 99.9% 95% 80%
+TABL     (0.1 ppm) resin dosage
+TABL     of (0.1 to
+TABL     1% w/w)
+TABL    
+TABL     (Products show bacteriostatic effect with no zone of inhibition)
+TABL 
+TABL     TABLE-US-00006
+TABL     TABLE 4
+TABL    
+TABL     Antibacterial activity of cotton treated with as-prepared blue coloured
+TABL     aqueous dispersion of Ag nanoparticle of Example 1 and cured at
+TABL     different conditions (washing standard used: AATCC-61-IIA **)
+TABL     Material
+TABL     Treated with blue coloured Antibacterial
+TABL     Concentration of aqueous dispersion of silver activity (%)
+TABL     Bacterial culture nanoparticles of Example 1 Without After 20
+TABL     ( ) of the present invention wash washes
+TABL    
+TABL     10 CFU/ml Treated cotton  93.3% 82.72% 
+TABL     only dried at 80° C. for 5 min
+TABL     Treated cotton 95.72% 92.2%
+TABL     dried at 80° C. for 5 min &
+TABL     cured at 120° C. for 5 min
+TABL     Treated cotton 99.99% 97.4%
+TABL     dried at 80° C. for 5 min &
+TABL     cured at 150° C. for 3 min
+TABL 
