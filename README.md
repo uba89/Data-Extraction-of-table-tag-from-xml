@@ -2,9 +2,9 @@
 Here is the code i have written to extract table tags information from xml file
 
 There are three files in the XMLParsing folder namely "level2.xml","element.py" and "output.txt" .
-"level2.xml" contain a <tables> tag and inside the <table> tag it contain <entry> tag.
+"level2.xml" contain a tables tag and inside the <table> tag it contain entry tag.
 
-I have written a python script that extract the id from the <tables> tag and give information that are stored in each 
+I have written a python script that extract the id from the tables tag and give information that are stored in each 
 entry tag.
 
 Requirements:
